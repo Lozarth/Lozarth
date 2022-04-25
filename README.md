@@ -1,3 +1,14 @@
+# Lozarth
+My name is Anthony, I'm 13 and I like computers and stuff
+
+I know languages such as Javascript, Lua, C# and probably a few others.
+
+I'm currently working on a Eaglercraft server called ZarthCraft, made for my school. I plan on monetizing it soon.
+
+I play games like Roblox, Minecraft, Team Fortress 2, Rust, CS:GO, PVZ Garden Warfare 2, and some others.
+
+Please add me I need online friends.
+
 ### My Stats
 [![Lozarth's Stats](https://github-readme-stats.vercel.app/api?username=Lozarth&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
