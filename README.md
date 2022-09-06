@@ -3,9 +3,7 @@ My name is Anthony. I'm 13, and I like computers and stuff.
 
 I know languages such as Javascript, Lua and probably a few others.
 
-I'm currently working on a Eaglercraft server called ZarthCraft, made for my school.
-
-I play games like Roblox, Minecraft, Team Fortress 2, Rust, CS:GO, GTAV, PVZ Garden Warfare 2, Stumble Guys, Call of Duty: Black Ops III, Star Wars Battlefront II and some others.
+I play games like Roblox, Minecraft, Team Fortress 2, Rust, CS:GO, GTAV, PVZ Garden Warfare 2, Stumble Guys, COD: Black Ops III, Star Wars Battlefront II and some others.
 
 Please add me I need online coder friends. 🤓
 
