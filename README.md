@@ -1,5 +1,5 @@
 # Lozarth
-My name is Anthony. I'm 13, and I like computers and stuff.
+I like computers and stuff.
 
 I know languages such as Javascript, Lua and probably a few others.
 
