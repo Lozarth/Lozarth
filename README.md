@@ -18,7 +18,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/>
 </a>
 
-### My Stats
-[![Lozarth's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lozarth&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+# Stats:
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lozarth&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lozarth's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lozarth&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
